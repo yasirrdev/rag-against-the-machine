@@ -1,6 +1,6 @@
 # RAG Against the Machine
 
-This project has been created as part of the 42 curriculum by yasirrdev.
+This project has been created as part of the 42 curriculum by ybel-maa.
 
 ## Description
 
